@@ -1,3 +1,7 @@
+Learning Outcomes: 1)Learned how to create a Single Page Application 2)Leaned about deployment on netlify 3)Leaned about the archiecture of web apps
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
